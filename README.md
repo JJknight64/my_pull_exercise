@@ -3,3 +3,5 @@
 This is the README file for "my_pull_exercise"
 
 Brought to you by Jacob Duryea
+
+This exercise is the most involved yet! :O
